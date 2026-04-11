@@ -29,10 +29,9 @@ This project is a manual testing portfolio for **Swag Labs (SauceDemo)**, a web 
 ## 🛠️ Tools Used
 
 - **Browser:** Google Chrome (Latest)
-- **OS:** Windows 11
-- **Documentation:** Microsoft Word, Microsoft Excel
-- **Bug Tracking:** Manual (Excel)
-- **Screenshot:** Snipping Tool
+- **OS:** Zorin OS
+- **Documentation:** LibreOffice Writer, LibreOffice Calc
+- **Bug Tracking:** Manual (LibreOffice Calc)
 
 ---
 
