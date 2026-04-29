@@ -1,32 +1,32 @@
-# 🧪 QA Portfolio — Swag Labs (SauceDemo)
+# QA Portfolio — Swag Labs (SauceDemo)
 
-**Author:** Sharhan Anhar  
-**Application URL:** https://www.saucedemo.com  
-**Testing Type:** Manual Testing  
+**Author:** Sharhan Anhar
+**Application URL:** https://www.saucedemo.com
+**Testing Type:** Manual Testing
 **Status:** In Progress
 
 ---
 
-## 📌 About This Project
+## About This Project
 
 This project is a manual testing portfolio for **Swag Labs (SauceDemo)**, a web application built specifically for QA practice. The goal is to demonstrate QA skills including test planning, test case writing, bug reporting, and test documentation.
 
 ---
 
-## 🔍 Scope of Testing
+## Scope of Testing
 
 | Module | Status |
 |---|---|
-| Login & Logout | ✅ In Progress |
-| Product List | 🔜 Planned |
+| Login & Logout | Done |
+| Inventory | Done |
 | Product Detail | 🔜 Planned |
 | Shopping Cart | 🔜 Planned |
 | Checkout | 🔜 Planned |
-| Navigation | 🔜 Planned |
+| Navigation | Done |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Browser:** Google Chrome (Latest)
 - **OS:** Zorin OS
@@ -35,7 +35,7 @@ This project is a manual testing portfolio for **Swag Labs (SauceDemo)**, a web 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 qa-portfolio-swaglabs/
@@ -51,7 +51,7 @@ qa-portfolio-swaglabs/
 
 ---
 
-## 📋 Test Credentials
+## Test Credentials
 
 | Username | Password | Description |
 |---|---|---|
@@ -61,7 +61,7 @@ qa-portfolio-swaglabs/
 
 ---
 
-## 📝 Test Summary
+## Test Summary
 
 | Total TC | Pass | Fail | Not Executed |
 |---|---|---|---|
